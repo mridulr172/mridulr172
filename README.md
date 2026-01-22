@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Debugging and Problem-Solving**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mroy9090/](https://github.com/mridulr172/)
+- 👨‍💻 All of my projects are available at [https://github.com/mridulr172/](https://github.com/mridulr172/)
 
 - 📫 How to reach me **www.linkedin.com/in/mridul-roy-064408183**
 
