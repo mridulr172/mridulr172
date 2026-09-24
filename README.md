@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mroy9090" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **PHP,Laravel & Mern Stack**
+- 🔭 I’m currently working on **PHP,Laravel, Wordpress & Mern Stack**
 
 - 👯 I’m looking to collaborate on **Analyze Existing Open Source Projects**
 
